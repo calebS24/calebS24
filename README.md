@@ -7,9 +7,6 @@
     <a href="https://www.linkedin.com/in/calebsv">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:30px;"/>
     </a>
-    <a href="https://twitter.com/B_J_A_008">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" style="height:30px;"/>
-    </a>
     <a href="mailto:calebsvarghese@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=minutemailer&logoColor=white" alt="Email Badge" style="height:30px;"/>
     </a>
