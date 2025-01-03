@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="height:30px;"/>
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="height:30px;"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" style="height:30px;"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="height:30px;"/>
 </div>
 
 ---
