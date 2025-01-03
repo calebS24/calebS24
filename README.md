@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats :
+### 📊 GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
