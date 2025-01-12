@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" width=396 src="https://streak-stats.demolab.com/?user=calebS24&theme=dark&border=3AEBD9" alt="Caleb Shaji Varghese's Streak Stats" />
+    <img align="center" width=396 src="https://streak-stats.demolab.com?user=calebS24&theme=dark&border=3AEBD9" alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=calebS24&count_private=true&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
