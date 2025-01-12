@@ -46,10 +46,6 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" width=396 src="https://streak-stats.demolab.com?user=calebS24&theme=dark&border=61dafb" alt="GitHub Streak Stats" />
-  </a>
-
   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=calebS24&theme=dark&border=3AEBD9&stroke=6FB1EB&ring=EBAE06)](https://git.io/streak-stats)
   
   <!-- GitHub Stats -->
