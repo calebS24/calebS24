@@ -50,7 +50,7 @@
     <img align="center" width=396 src="https://nirzak-streak-stats.vercel.app?user=calebS24&theme=dark&border=3AEBD9&stroke=6FB1EB&ring=EBAE06" alt="Alternate GitHub Streak Stats" />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
  
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
