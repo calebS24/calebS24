@@ -46,10 +46,14 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img align="center" width=396 src="https://streak-stats.demolab.com?user=calebS24&theme=dark&border=61dafb" alt="GitHub Streak Stats" />
   </a>
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=calebS24&theme=dark&border=3AEBD9&stroke=6FB1EB&ring=EBAE06)](https://git.io/streak-stats)
+
+  <!-- Alternate GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img align="center" width=396 src="https://nirzak-streak-stats.vercel.app?user=calebS24&theme=dark&border=3AEBD9&stroke=6FB1EB&ring=EBAE06" alt="Alternate GitHub Streak Stats" />
+  </a>
   
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -65,4 +69,5 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebS24&hide=powershell,Mathematica,Ruby,CMake,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
   </a>
 </div>
+
 
